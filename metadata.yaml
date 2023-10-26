@@ -1,0 +1,32 @@
+_repo: Alcuin-of-York-b-Lectures-delivered-in-the-cathedral-church-of-Bristol-in-1907-and-1908_71904
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Browne, G. F. (George Forrest)
+    alias: Browne, George Forrest
+    birthdate: 1833
+    deathdate: 1930
+    gutenberg_agent_id: '5329'
+    url: http://www.gutenberg.org/2009/agents/5329
+    wikipedia: https://en.wikipedia.org/wiki/George_Forrest_Browne
+description: ''
+gutenberg_issued: '2023-10-18'
+identifiers:
+  gutenberg: '71904'
+language: en
+pgterms:marc904: https://archive.org/details/alcuinofyorklect00browiala
+pgterms:marc905: 20201006041138browne
+pgterms:marc906: '1908'
+pgterms:marc907: GB
+production_note: MWS and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aLondon :$bSociety for Promoting Christian Knowledge, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Alcuin of York : $b Lectures delivered in the cathedral church of Bristol
+  in 1907 and 1908'
+url: http://www.gutenberg.org/ebooks/71904
